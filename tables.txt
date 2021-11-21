@@ -1,0 +1,70 @@
+signinc:
+user_id
+password
+dol(date of login)
+tol(time of login)
+------------------------
+signins:
+staff_no
+password
+dol(date of login)
+tol(time of login)
+------------------------
+signina:
+user id
+password
+dol(date of login)
+tol(time of login)
+------------------------
+Billing:
+bill_no
+cust_id
+cust_name
+dop(date of purchase)
+top(time of purchase)
+item_purchased
+quantity
+price
+------------------------
+payment:
+dop(date of payment)
+top(time pof payment)
+fname
+lname
+email
+address
+state
+country
+zip
+card_type
+card_name
+card_number
+card_Expiration
+card_cvv
+amount_paid
+------------------------
+verify:
+id
+pass
+user_type
+------------------------
+signup:
+first_name
+last_name
+mobile_num
+email
+address
+state
+country
+zip
+------------------------
+appointment:
+doc(date of checkup)
+toc(time of checkup)
+fname
+lname
+email
+age
+doctor
+reason
+------------------------
